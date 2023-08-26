@@ -1,3 +1,3 @@
 # softEng1
 Software Engineering 1 Lab
-Student name:  ESPERANZA, Jeremias
+Student name:  PAREDES, Eliezer
